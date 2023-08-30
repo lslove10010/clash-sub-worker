@@ -35,8 +35,9 @@ jobs:
       # - name: Verify formatting
       #   run: deno fmt --check
 
-      #- name: Run linter
-      #  run: deno lint
+      - name: Run linter
+        run: apt-get update && apt-get install lint
+             deno lint
 
       - name: Run tests
         run: deno test -A
