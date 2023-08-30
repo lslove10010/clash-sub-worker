@@ -16,6 +16,7 @@ var configProviders = {
   "getnode": "https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml",
   "nodefree": "https://raw.githubusercontent.com/mlabalabala/v2ray-node/main/nodefree4clash.txt",
   "clashnode": "https://raw.githubusercontent.com/mlabalabala/v2ray-node/main/clashnode4clash.txt"
+  "clashgetnode": "https://github.com/lslove10010/clash-getNode/blob/main/clash.yaml"
 };
 
 // node_modules/js-yaml/dist/js-yaml.mjs
