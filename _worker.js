@@ -2779,7 +2779,7 @@ function landingPage(url) {
 		\u062F\u0631 \u0635\u0648\u0631\u062A \u0646\u06CC\u0627\u0632 \u0645\u06CC\u200C\u062A\u0648\u0627\u0646\u06CC\u062F \u0644\u06CC\u0633\u062A \u067E\u0631\u0648\u0648\u0627\u06CC\u062F\u0631\u0647\u0627 \u0631\u0627 \u0645\u062D\u062F\u0648\u062F \u06A9\u0646\u06CC\u062F:
 	</p>
 	<p>
-		<a href="https://${url.hostname}/clash?provider=mahdibland,mfuu">https://${url.hostname}/clash?provider=mahdibland,mfuu</a>
+		<a href="https://${url.hostname}/clash?provider=mahdibland,mfuu,peasoft,getnode,nodefree,clashnode,clashgetnode">https://${url.hostname}/clash?provider=mahdibland,mfuu,peasoft,getnode,nodefree,clashnode,clashgetnode</a>
 	</p>
 </body>
 `,
