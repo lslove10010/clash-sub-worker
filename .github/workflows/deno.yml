@@ -36,8 +36,7 @@ jobs:
       #   run: deno fmt --check
 
       - name: Run linter
-        run: apt-get update && apt-get install lint
-             deno lint
+        run: deno lint
 
       - name: Run tests
         run: deno test -A
